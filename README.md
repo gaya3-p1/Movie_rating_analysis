@@ -4,7 +4,7 @@ An end-to-end Python and SQLite data analysis project exploring movie ratings, g
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Movie_rating_analysis/
@@ -34,7 +34,7 @@ Movie_rating_analysis/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Install Dependencies
 
@@ -94,13 +94,14 @@ jupyter notebook notebooks/movie_analysis.ipynb
 
 ---
 
-## 📊 Analytical Insights
+## Analytical Insights
 
 - **Top 10 Highest Rated Movies (post-2000)**
 - **Average Rating by Genre**
 - **Top 5 Highest Revenue Movies**
 - **Movies Rated Above 8.0**
 - **Decade-by-Decade Movie Release Counts**
+<<<<<<< HEAD
 
 ---
 
@@ -132,3 +133,6 @@ Scatter plot analyzing the correlation between movie ratings and revenue, groupe
 Correlation matrix examining numerical relationships among movie rating, revenue, and release year.
 
 ![Correlation Heatmap](plots/correlation_heatmap.png)
+=======
+- **Visual Plots:** Rating distribution, average genre rating, revenue trends over time, rating vs. revenue correlation, and metric heatmap.
+>>>>>>> 105cf6578485bbd605dd588b3997477c28cffac5
