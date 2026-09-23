@@ -120,8 +120,5 @@ Scatter plot analyzing the correlation between movie ratings and revenue, groupe
 Correlation matrix examining numerical relationships among movie rating, revenue, and release year.
 
 ![Correlation Heatmap](plots/correlation_heatmap.png)
-<<<<<<< HEAD
-
-=======
 =======
 - **Visual Plots:** Rating distribution, average genre rating, revenue trends over time, rating vs. revenue correlation, and metric heatmap.
