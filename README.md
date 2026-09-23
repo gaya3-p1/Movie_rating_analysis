@@ -92,7 +92,7 @@ jupyter notebook notebooks/movie_analysis.ipynb
 
 ---
 
-## 📈 Sample Visualizations
+## Sample Visualizations
 
 The automated pipeline generates key analytical charts saved to the [`plots/`](plots/) directory:
 
@@ -120,4 +120,9 @@ Scatter plot analyzing the correlation between movie ratings and revenue, groupe
 Correlation matrix examining numerical relationships among movie rating, revenue, and release year.
 
 ![Correlation Heatmap](plots/correlation_heatmap.png)
+<<<<<<< HEAD
 
+=======
+=======
+- **Visual Plots:** Rating distribution, average genre rating, revenue trends over time, rating vs. revenue correlation, and metric heatmap.
+>>>>>>> ea5cff0128cba0a539edba7a64d9aae5b438f79a
