@@ -101,11 +101,10 @@ jupyter notebook notebooks/movie_analysis.ipynb
 - **Top 5 Highest Revenue Movies**
 - **Movies Rated Above 8.0**
 - **Decade-by-Decade Movie Release Counts**
-<<<<<<< HEAD
 
 ---
 
-## 📈 Sample Visualizations
+## Sample Visualizations
 
 The automated pipeline generates key analytical charts saved to the [`plots/`](plots/) directory:
 
@@ -135,4 +134,3 @@ Correlation matrix examining numerical relationships among movie rating, revenue
 ![Correlation Heatmap](plots/correlation_heatmap.png)
 =======
 - **Visual Plots:** Rating distribution, average genre rating, revenue trends over time, rating vs. revenue correlation, and metric heatmap.
->>>>>>> 105cf6578485bbd605dd588b3997477c28cffac5
