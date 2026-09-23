@@ -101,4 +101,34 @@ jupyter notebook notebooks/movie_analysis.ipynb
 - **Top 5 Highest Revenue Movies**
 - **Movies Rated Above 8.0**
 - **Decade-by-Decade Movie Release Counts**
-- **Visual Plots:** Rating distribution, average genre rating, revenue trends over time, rating vs. revenue correlation, and metric heatmap.
+
+---
+
+## 📈 Sample Visualizations
+
+The automated pipeline generates key analytical charts saved to the [`plots/`](plots/) directory:
+
+### 1. Distribution of Movie Ratings
+Histogram with KDE curve displaying the spread and frequency of ratings across the movie catalog.
+
+![Distribution of Movie Ratings](plots/rating_distribution.png)
+
+### 2. Average Rating by Genre
+Bar chart highlighting average ratings across genres such as Action, Drama, Comedy, Sci-Fi, and Romance.
+
+![Average Rating by Genre](plots/genre_ratings.png)
+
+### 3. Average Revenue Trend Over Years
+Historical timeline tracking average box-office revenue trends across release years.
+
+![Revenue Trends Over Years](plots/revenue_trends.png)
+
+### 4. Rating vs. Revenue
+Scatter plot analyzing the correlation between movie ratings and revenue, grouped by genre.
+
+![Rating vs Revenue](plots/rating_vs_revenue.png)
+
+### 5. Correlation Heatmap
+Correlation matrix examining numerical relationships among movie rating, revenue, and release year.
+
+![Correlation Heatmap](plots/correlation_heatmap.png)
