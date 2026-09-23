@@ -1,0 +1,251 @@
+movie_id,title,genre,release_year,rating,revenue
+1,A Future,Romance,1995,3.0,338673044.22
+2,A Night,Action,1981,1.8,301407345.8
+3,Rise of Night,Horror,2008,6.3,4242881.08
+4,Return of Night,Sci-Fi,1997,2.4,168960678.01
+5,A Night,Comedy,2002,8.6,403757008.36
+6,Legend of Love,Thriller,1985,6.0,309641356.43
+7,Journey to Dreams,Comedy,1982,7.0,492625538.81
+8,Rise of Love,Thriller,1997,5.1,82164394.48
+9,Journey to Dreams,Romance,2024,9.4,304956371.83
+10,Return of Dreams,Drama,2009,4.4,320359880.17
+11,Rise of Secrets,Action,1994,8.4,201181228.72
+12,A Dreams,Sci-Fi,1993,6.9,457359247.28
+13,Legend of Warrior,Romance,1988,3.2,132108062.65
+14,Escape from Night,Sci-Fi,1994,10.0,247264401.61
+15,The Love,Drama,2020,2.4,298608106.34
+16,Escape from Night,Animation,2013,3.3,471272999.83
+17,A Galaxy,Sci-Fi,1987,3.6,2619412.73
+18,Battle for Warrior,Comedy,2020,3.7,304876135.51
+19,Return of Secrets,Drama,2014,9.6,459328253.7
+20,Journey to Destiny,Action,1987,9.4,416001099.15
+21,Battle for Dreams,Action,1995,8.9,43741072.58
+22,Legend of Love,Drama,1988,6.9,83398352.53
+23,Escape from Dreams,Horror,2025,3.8,325289150.76
+24,Legend of Destiny,Comedy,1995,3.0,294566050.51
+25,Rise of Dreams,Action,1984,7.4,34632763.73
+26,The Secrets,Comedy,2012,3.1,107904166.88
+27,Return of Destiny,Horror,2010,8.3,49368476.3
+28,Escape from Secrets,Thriller,2006,5.2,337008909.1
+29,A Future,Thriller,2001,8.2,96603446.0
+30,Legend of Warrior,Thriller,1991,3.5,461709534.04
+31,Legend of Love,Action,2021,10.0,484529132.39
+32,Rise of Warrior,Thriller,2011,5.3,451318989.89
+33,Return of Night,Action,2004,3.4,228049175.3
+34,Escape from Destiny,Drama,1992,3.7,290010965.12
+35,The Secrets,Action,1983,6.3,426507226.13
+36,Return of Future,Comedy,1991,1.6,431047781.78
+37,Escape from Love,Horror,2017,6.4,210193232.75
+38,Journey to Galaxy,Horror,2022,7.4,198497137.55
+39,Battle for Destiny,Sci-Fi,1984,1.1,281933829.17
+40,A Love,Horror,2012,3.4,440551222.67
+41,Rise of Secrets,Romance,1990,4.9,151956054.35
+42,The Galaxy,Comedy,1988,3.4,371465925.31
+43,Return of Galaxy,Romance,2018,2.9,344061067.27
+44,Battle for Destiny,Romance,1983,1.8,139063431.76
+45,The Secrets,Drama,2020,9.8,221475920.42
+46,Escape from Future,Comedy,1984,9.5,75378088.45
+47,The Secrets,Drama,2007,2.1,449591762.88
+48,The Secrets,Horror,2023,3.2,390278004.69
+49,Escape from Warrior,Horror,1990,9.8,440826686.13
+50,The Warrior,Sci-Fi,2006,8.2,405563908.97
+51,Battle for Warrior,Comedy,2004,8.8,111994425.06
+52,Legend of Secrets,Romance,1994,3.0,199834523.3
+53,Battle for Love,Romance,2002,6.8,490593693.91
+54,Journey to Future,Comedy,1996,2.6,133467714.9
+55,A Night,Sci-Fi,2000,4.9,58707246.23
+56,Rise of Galaxy,Action,2025,4.9,403448923.98
+57,Rise of Secrets,Thriller,1984,9.5,311954549.56
+58,A Galaxy,Romance,2022,4.7,148531946.06
+59,Return of Dreams,Thriller,2022,9.5,451499967.32
+60,Battle for Night,Action,1999,3.6,290412405.82
+61,Journey to Destiny,Animation,2008,7.1,397073964.15
+62,Return of Love,Romance,2012,7.0,47600212.84
+63,Rise of Galaxy,Horror,1992,2.3,
+64,Legend of Love,Animation,2006,9.0,359454611.83
+65,Escape from Destiny,Thriller,1995,2.3,446437253.28
+66,A Night,Horror,1991,8.2,232810392.4
+67,Rise of Love,Animation,1988,8.2,493958334.08
+68,Journey to Destiny,Thriller,2015,5.0,430885959.98
+69,Legend of Galaxy,Horror,2020,3.5,242813911.52
+70,Rise of Galaxy,Animation,1984,7.4,168587920.77
+71,A Warrior,Drama,1994,4.4,107762485.68
+72,Escape from Night,Sci-Fi,2014,5.2,416612693.5
+73,Escape from Future,Thriller,2010,1.1,376984087.4
+74,Escape from Dreams,Animation,1994,3.5,195039744.42
+75,Escape from Warrior,Animation,1988,9.8,453557502.43
+76,The Love,Thriller,1988,8.8,130818000.65
+77,Journey to Dreams,Animation,2000,4.0,139850051.2
+78,Escape from Galaxy,Comedy,2010,1.2,499954006.43
+79,Journey to Dreams,Comedy,2021,1.4,
+80,Rise of Dreams,Action,2019,2.4,335059963.47
+81,Rise of Destiny,Romance,2003,2.5,374214900.33
+82,A Warrior,Romance,1986,6.2,288322567.48
+83,Escape from Night,Horror,1984,6.3,122181840.89
+84,Battle for Love,Action,2002,5.8,35409411.52
+85,Journey to Future,Thriller,2011,1.9,318156967.94
+86,Legend of Warrior,Thriller,1991,7.6,135771115.8
+87,Legend of Destiny,Thriller,2017,3.4,415534778.43
+88,A Galaxy,Animation,1995,7.8,334426046.75
+89,Journey to Future,Animation,2000,2.6,399118346.06
+90,Journey to Galaxy,Romance,2015,1.1,43720868.02
+91,Escape from Destiny,Horror,2024,5.3,224639100.24
+92,The Love,Romance,1994,4.6,332316050.78
+93,Journey to Destiny,Sci-Fi,2007,10.0,176553453.28
+94,Legend of Galaxy,Romance,1996,3.1,158458424.06
+95,Return of Dreams,Horror,2010,3.5,380343739.79
+96,Battle for Love,Horror,1998,3.0,8060035.26
+97,Return of Galaxy,Action,1983,6.0,64013466.99
+98,Legend of Love,Action,2016,3.6,171012260.35
+99,The Galaxy,Animation,1987,8.4,37967002.96
+100,The Warrior,Drama,2016,9.5,124847286.65
+101,Escape from Dreams,Thriller,2008,9.2,294674044.22
+102,Escape from Galaxy,Action,2019,9.6,381605815.07
+103,Rise of Galaxy,Comedy,1990,3.2,79109775.11
+104,Escape from Destiny,Animation,1998,1.3,142076468.18
+105,Legend of Love,Horror,1996,8.1,330930338.38
+106,Rise of Night,Comedy,2014,3.0,133550603.35
+107,Return of Love,Action,1990,8.1,412295910.36
+108,Battle for Destiny,Comedy,2009,7.2,471395444.13
+109,Legend of Destiny,Comedy,2018,1.4,161838470.1
+110,Battle for Future,Comedy,1994,9.7,288024355.5
+111,The Galaxy,Action,1991,5.2,458120321.18
+112,Return of Night,Animation,1985,5.2,161208069.72
+113,A Warrior,Sci-Fi,2006,7.2,472651576.24
+114,The Destiny,Comedy,2000,3.3,386501415.09
+115,The Destiny,Thriller,1983,2.7,378465133.87
+116,Legend of Future,Horror,1997,5.9,219619931.44
+117,Legend of Love,Action,2020,6.5,80030703.74
+118,The Night,Comedy,1994,9.9,231262499.2
+119,A Warrior,Animation,2025,3.6,208329681.12
+120,Legend of Destiny,Horror,2009,6.0,461012206.82
+121,Return of Love,Romance,2006,4.1,134319158.87
+122,The Galaxy,Romance,2017,6.2,432765036.76
+123,Legend of Destiny,Sci-Fi,2001,6.0,228216963.82
+124,Journey to Dreams,Horror,2016,4.4,205976772.68
+125,Journey to Destiny,Thriller,2004,9.9,326357481.7
+126,Return of Destiny,Action,1988,5.5,434980456.37
+127,Legend of Love,Animation,1980,7.5,327735881.89
+128,Return of Love,Animation,1996,4.0,325268489.64
+129,Journey to Night,Sci-Fi,2020,7.5,436319125.68
+130,The Love,Horror,2020,7.2,114515654.07
+131,A Night,Comedy,2020,7.3,84016028.58
+132,Battle for Future,Action,2000,8.2,188045703.8
+133,Return of Dreams,Thriller,2016,7.1,88359608.18
+134,Escape from Dreams,Animation,2017,2.3,127734692.37
+135,Battle for Future,Animation,1998,7.1,221423162.02
+136,Journey to Galaxy,Thriller,2024,3.3,100409282.56
+137,Escape from Destiny,Comedy,1995,4.4,148640322.72
+138,Battle for Future,Thriller,1997,1.1,389377496.27
+139,The Destiny,Romance,1994,6.5,318672321.12
+140,Battle for Warrior,Comedy,2020,6.8,220970771.89
+141,Journey to Warrior,Comedy,1998,3.9,101196602.53
+142,Journey to Galaxy,Drama,1996,9.2,483724654.01
+143,Battle for Secrets,Comedy,2009,9.7,483283604.52
+144,Escape from Secrets,Comedy,2005,1.1,227938227.84
+145,Battle for Night,Sci-Fi,1986,7.1,310153886.66
+146,Journey to Dreams,Comedy,2020,8.4,151792897.09
+147,Escape from Love,Drama,1982,9.5,246819684.87
+148,A Dreams,Drama,2004,5.1,371826920.64
+149,Escape from Warrior,Thriller,2021,1.9,204649826.96
+150,Battle for Future,Sci-Fi,1993,5.0,427869646.46
+151,A Secrets,Sci-Fi,1983,4.6,61957699.82
+152,Legend of Love,Horror,2021,6.8,26238676.82
+153,Journey to Dreams,Drama,2016,2.8,277549686.44
+154,Rise of Dreams,Sci-Fi,1989,8.1,139360148.14
+155,Return of Warrior,Romance,1991,2.0,66769811.55
+156,Journey to Dreams,Sci-Fi,1981,2.6,371117310.42
+157,A Love,Animation,2008,8.0,55417950.99
+158,Rise of Future,Romance,2009,6.8,
+159,Legend of Night,Thriller,2023,2.0,222337602.35
+160,A Secrets,Drama,1984,2.1,293096979.59
+161,Journey to Night,Romance,2009,5.5,396754950.46
+162,A Dreams,Thriller,2008,9.0,413882193.17
+163,Escape from Night,Comedy,2000,4.8,187776210.69
+164,Return of Destiny,Comedy,1985,8.5,49185651.85
+165,Journey to Warrior,Action,2017,9.6,335336619.1
+166,Escape from Secrets,Thriller,1983,9.7,176471446.66
+167,Rise of Warrior,Animation,1994,8.6,278576472.58
+168,A Galaxy,Horror,2007,8.6,409395002.91
+169,The Galaxy,Action,1991,3.5,460847223.0
+170,Journey to Future,Drama,1989,6.1,71795452.42
+171,The Love,Horror,2004,4.8,185656493.15
+172,Journey to Love,Action,1989,2.4,337310386.6
+173,Battle for Destiny,Thriller,2011,6.5,108568913.7
+174,A Secrets,Thriller,1987,3.5,243829743.93
+175,Battle for Future,Horror,2005,9.9,103007139.05
+176,Rise of Warrior,Romance,1998,4.0,
+177,Escape from Warrior,Drama,2004,5.8,279803060.27
+178,Journey to Love,Thriller,1982,4.9,39853443.33
+179,Journey to Night,Thriller,2025,6.8,203111121.23
+180,Journey to Warrior,Animation,2024,9.3,422397695.55
+181,Rise of Night,Thriller,2013,1.7,373156608.41
+182,Rise of Secrets,Drama,1984,5.6,255466079.1
+183,Journey to Secrets,Drama,1995,1.9,87576012.2
+184,Return of Love,Drama,2020,5.4,380178697.65
+185,Legend of Secrets,Sci-Fi,1989,5.0,316061174.89
+186,Battle for Future,Sci-Fi,2012,1.7,19766015.54
+187,Journey to Galaxy,Comedy,2021,8.8,307889185.82
+188,Escape from Destiny,Action,2008,9.2,94931493.07
+189,Legend of Warrior,Action,2008,1.9,172375450.14
+190,A Warrior,Action,1995,7.4,262510208.03
+191,Return of Secrets,Sci-Fi,1998,4.5,339769962.56
+192,The Secrets,Comedy,2001,1.9,142789339.97
+193,Return of Secrets,Comedy,2017,7.0,155805637.04
+194,Escape from Warrior,Comedy,1999,6.0,164909800.57
+195,Return of Love,Thriller,2012,4.3,90951198.52
+196,Rise of Secrets,Animation,1992,3.0,39505377.07
+197,A Future,Sci-Fi,2019,2.2,81961358.83
+198,Return of Destiny,Action,2006,4.3,484824713.1
+199,Battle for Destiny,Horror,2014,3.2,392400749.56
+200,Rise of Secrets,Animation,2009,7.9,251950439.05
+201,Escape from Warrior,Horror,2018,2.2,320948339.07
+202,Journey to Love,Comedy,1998,1.8,225210290.97
+203,Return of Night,Comedy,1994,8.4,465305491.64
+204,Escape from Future,Thriller,2012,4.4,41721113.17
+205,Rise of Future,Sci-Fi,1986,8.6,395898938.1
+206,Return of Future,Romance,2010,7.3,353062551.47
+207,Legend of Future,Comedy,1981,3.3,274853318.48
+208,Escape from Love,Romance,1995,3.7,
+209,Escape from Destiny,Comedy,1987,8.5,268490838.37
+210,Rise of Warrior,Romance,2007,1.0,285761194.3
+211,Return of Love,Sci-Fi,1984,9.6,393419755.59
+212,The Night,Animation,1982,6.7,127571480.27
+213,The Secrets,Comedy,2002,3.2,52728269.88
+214,Journey to Warrior,Action,2002,5.9,88369474.4
+215,Legend of Destiny,Drama,1988,1.6,229382109.15
+216,Battle for Dreams,Action,1992,9.0,155727865.59
+217,Escape from Destiny,Romance,1982,7.8,179130113.84
+218,The Secrets,Romance,1987,8.2,200610865.55
+219,Legend of Night,Sci-Fi,1991,5.5,462230922.85
+220,Battle for Love,Thriller,1985,4.9,91047786.48
+221,Battle for Secrets,Comedy,1985,4.0,223511965.79
+222,Escape from Warrior,Animation,2002,5.0,455892008.19
+223,Escape from Galaxy,Action,1984,7.0,257029923.71
+224,Return of Future,Drama,2018,7.1,63988782.13
+225,Rise of Secrets,Sci-Fi,2004,9.5,
+226,Return of Destiny,Sci-Fi,2003,5.0,69709858.81
+227,Journey to Night,Sci-Fi,2021,3.5,13930757.09
+228,Return of Destiny,Thriller,2015,2.1,352314867.79
+229,Rise of Galaxy,Animation,1992,2.1,226569299.94
+230,Legend of Love,Sci-Fi,2022,4.1,271543509.25
+231,Battle for Warrior,Drama,2003,5.6,101289205.22
+232,Return of Dreams,Animation,1981,4.2,234235513.81
+233,Return of Love,Comedy,1999,4.6,239853889.85
+234,Escape from Night,Comedy,1988,9.8,225537273.34
+235,Journey to Warrior,Drama,1988,4.9,28651012.16
+236,A Warrior,Romance,1990,2.5,113509672.07
+237,Battle for Love,Romance,1992,6.7,63459977.27
+238,Battle for Love,Drama,2017,9.5,329707703.82
+239,Journey to Future,Action,1985,1.4,288808844.51
+240,Rise of Night,Action,2011,9.0,321311737.36
+241,Battle for Destiny,Horror,2023,4.7,344618172.26
+242,Return of Destiny,Thriller,2010,5.2,72690676.89
+243,Journey to Secrets,Thriller,1988,7.8,53985782.87
+244,Rise of Destiny,Comedy,1997,5.0,26252040.61
+245,Escape from Night,Horror,1990,8.3,360843085.98
+246,Legend of Outlier,Action,2021,-1.5,150000000.0
+247,Rise of Masterpiece,Drama,2023,11.2,280000000.0
+248,Rise of Secrets,Action,1994,8.4,201181228.72
+249,The Secrets,Comedy,2012,3.1,107904166.88
+250,Battle for Warrior,Comedy,2004,8.8,111994425.06
