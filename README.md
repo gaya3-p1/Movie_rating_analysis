@@ -125,4 +125,3 @@ Correlation matrix examining numerical relationships among movie rating, revenue
 =======
 =======
 - **Visual Plots:** Rating distribution, average genre rating, revenue trends over time, rating vs. revenue correlation, and metric heatmap.
->>>>>>> ea5cff0128cba0a539edba7a64d9aae5b438f79a
