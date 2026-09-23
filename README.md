@@ -4,7 +4,7 @@ An end-to-end Python and SQLite data analysis project exploring movie ratings, g
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Movie_rating_analysis/
@@ -34,7 +34,7 @@ Movie_rating_analysis/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Install Dependencies
 
@@ -94,7 +94,7 @@ jupyter notebook notebooks/movie_analysis.ipynb
 
 ---
 
-## 📊 Analytical Insights
+## Analytical Insights
 
 - **Top 10 Highest Rated Movies (post-2000)**
 - **Average Rating by Genre**
